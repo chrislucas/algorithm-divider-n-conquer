@@ -1,0 +1,42 @@
+http://www.geeksforgeeks.org/divide-and-conquer-introduction/
+
+https://pt.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/linear-time-merging
+
+http://www.cs.princeton.edu/~wayne/cs423/lectures/divide-and-conquer-4up.pdf
+https://www.cs.princeton.edu/courses/archive/spring13/cos423/lectures/05DivideAndConquerI-2x2.pdf
+http://algs4.cs.princeton.edu/lectures/22Mergesort.pdf
+
+
+http://www.cs.princeton.edu/courses/archive/spr05/cos423/lectures/05divide-and-conquer.pdf
+
+http://algs4.cs.princeton.edu/22mergesort/
+
+Problems
+https://a2oj.com/contest?ID=26062
+https://www.a2oj.com/contest?ID=25775
+https://a2oj.com/contest?ID=30512
+https://a2oj.com/contest?ID=27789
+
+
+Problema interessante
+Maximum profit for stock prices
+
+
+http://www.geeksforgeeks.org/stock-buy-sell/
+https://stackoverflow.com/questions/31218372/buy-and-sell-stock-with-o-n-log-n-time-complexity
+https://stackoverflow.com/questions/7086464/maximum-single-sell-profit
+https://www.sigmainfy.com/blog/best-time-to-buy-and-sell-stock-iii.html
+https://www.sigmainfy.com/blog/leetcode-stocki.html
+
+
+https://www.careercup.com/question?id=9663203
+https://cs.stackexchange.com/questions/10050/confusion-related-to-a-divide-and-conquer-problem
+
+Mais avançado (eu acho)
+http://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/
+
+
+http://www.engr.uconn.edu/~ywu/Courses/CSE3500S11/NotesWeek5.pdf
+
+
